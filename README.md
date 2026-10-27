@@ -17,3 +17,7 @@ My contributions included:
 ## Tools
 
 Python, SQL, pandas, NumPy, scikit-learn, FastAPI, SQLite, Matplotlib, HTML, CSS, and JavaScript.
+
+## Contact
+
+Email: [ruba.bayazed@gmail.com](mailto:ruba.bayazed@gmail.com)
