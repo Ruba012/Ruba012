@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ruba
 
-<!--
-**Ruba012/Ruba012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student interested in machine learning and data-driven applications. Most of my experience so far comes from university projects, where I enjoy taking an idea from data preparation through to a working application.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Fake Job Posting Detection](https://github.com/Ruba012/Fake-Job-Posting-Detection)
+
+A team Senior Project II that uses job titles and descriptions to classify postings as real or potentially fraudulent. The project combines text processing and TF-IDF features with a scikit-learn model, served through a FastAPI backend and a web frontend.
+
+[Try the live app](https://fakejobpostingdetector.com/)
+
+## Tools used in my projects
+
+Python · scikit-learn · pandas · FastAPI · SQLite · HTML · CSS · JavaScript
+
+## Interests
+
+Machine learning, natural language processing, and building useful data-driven applications.
