@@ -1,6 +1,6 @@
 # Hi, I'm Ruba
 
-Data Science student at Saudi Electronic University (2021–2026), looking for a co-op placement or internship.
+Data Science student at Prince Musaid bin Abdulrahman University (2021–2026), looking for a co-op placement or internship.
 
 ## Fake Job Posting Detection
 
