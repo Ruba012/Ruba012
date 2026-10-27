@@ -1,19 +1,14 @@
 # Hi, I'm Ruba
 
-I'm a Data Science student interested in machine learning and data-driven applications. Most of my experience so far comes from university projects, where I enjoy taking an idea from data preparation through to a working application.
+I'm a Data Science student. I'm currently working on a team project that uses machine learning to detect fake job postings.
 
-## Featured project
+## Fake Job Posting Detection
 
-### [Fake Job Posting Detection](https://github.com/Ruba012/Fake-Job-Posting-Detection)
+The app looks at a job title and description and predicts whether the posting may be fake. It uses TF-IDF text features and a scikit-learn model, with a FastAPI backend.
 
-A team Senior Project II that uses job titles and descriptions to classify postings as real or potentially fraudulent. The project combines text processing and TF-IDF features with a scikit-learn model, served through a FastAPI backend and a web frontend.
+- [Project repository](https://github.com/Ruba012/Fake-Job-Posting-Detection)
+- [Live app](https://fakejobpostingdetector.com/)
 
-[Try the live app](https://fakejobpostingdetector.com/)
+## Tools
 
-## Tools used in my projects
-
-Python · scikit-learn · pandas · FastAPI · SQLite · HTML · CSS · JavaScript
-
-## Interests
-
-Machine learning, natural language processing, and building useful data-driven applications.
+Python, scikit-learn, pandas, FastAPI, SQLite, HTML, CSS, and JavaScript.
