@@ -1,14 +1,19 @@
 # Hi, I'm Ruba
 
-I'm a Data Science student. I'm currently working on a team project that uses machine learning to detect fake job postings.
+Data Science student at Saudi Electronic University (2021–2026), looking for a co-op placement or internship.
 
 ## Fake Job Posting Detection
 
-The app looks at a job title and description and predicts whether the posting may be fake. It uses TF-IDF text features and a scikit-learn model, with a FastAPI backend.
+This Senior Project II was built with my team. It classifies job postings as real or potentially fake based on their titles and descriptions.
 
-- [Project repository](https://github.com/Ruba012/Fake-Job-Posting-Detection)
-- [Live app](https://fakejobpostingdetector.com/)
+My contributions included:
+- Preparing text data and building TF-IDF and additional binary features.
+- Comparing Logistic Regression, Random Forest, and SVM models with precision, recall, F1-score, and ROC-AUC.
+- Working with an imbalanced dataset and using SMOTE in the model pipeline.
+- Contributing to the FastAPI web application, project documentation, and visualizations.
+
+[Project repository](https://github.com/Ruba012/Fake-Job-Posting-Detection) · [Live app](https://fakejobpostingdetector.com/)
 
 ## Tools
 
-Python, scikit-learn, pandas, FastAPI, SQLite, HTML, CSS, and JavaScript.
+Python, SQL, pandas, NumPy, scikit-learn, FastAPI, SQLite, Matplotlib, HTML, CSS, and JavaScript.
