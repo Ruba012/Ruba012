@@ -24,7 +24,7 @@ Data Science student at Prince Musaid bin Abdulrahman University (2021–2026), 
 
 ### Fake Job Posting Detection
 
-A team Senior Project II web application that classifies job postings as real or potentially fraudulent using their titles and descriptions.
+Senior Project II web application that classifies job postings as real or potentially fraudulent using their titles and descriptions.
 
 My contributions included:
 - Preparing text data and building TF-IDF and additional binary features.
