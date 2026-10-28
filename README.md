@@ -1,6 +1,6 @@
 <h1 align="center">Ruba</h1>
 
-<p align="center">Data Science student · CO-OP / internship candidate</p>
+<p align="center">Data Science student
 
 <p align="center">
   <a href="https://linkedin.com/in/ruba-fahd"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
