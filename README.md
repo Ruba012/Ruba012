@@ -1,4 +1,4 @@
-<h1 align="center">Ruba</h1>
+<h1 align="center">Ruba Fahd</h1>
 
 <p align="center">Data Science student
 
